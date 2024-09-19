@@ -17,8 +17,7 @@ available at [here](https://doi.org/10.1016/j.vehcom.2024.100845).
    datasets: [X-CANIDS Dataset](http://ieee-dataport.org/open-access/x-canids-dataset-vehicle-signal-dataset)
    and [SynCAN](https://github.com/etas/SynCAN). Please download them from the linked websites.
 2. It was tested on Linux and the deep learning model was built with Tensorflow.
-3. ⚡️ Make sure you have enough time and computing resource because X-CANIDS Dataset is large (6.5 GB raw data, 60.6 GB
-   after processing).
+3. ⚡️ Make sure you have enough time (probably more than 1 day depending on your machine) and computing resource (more than 75 GB).
 
 ### Environmental Setup
 
