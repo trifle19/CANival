@@ -1,0 +1,17 @@
+**/__pycache__
+**/.ipynb_checkpoints
+**/.idea/
+**/wandb
+
+/Dataset/Syncan/*.csv
+/Dataset/Syncan/cache
+/Dataset/Syncan/z/*
+/Dataset/X-CANIDS/canet/*
+/Dataset/X-CANIDS/raw/*
+/Dataset/X-CANIDS/signal/*
+/Dataset/X-CANIDS/z/*
+/Results/*
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
