@@ -9,7 +9,7 @@ of [CANet](https://doi.org/10.1109/ACCESS.2020.2982544) as the signal-based appr
 signals.
 
 This repository provides the source code of **CANival**, which is accepted by Vehicular Communications. The paper is
-available at [here](https://doi.org/10.1016/j.vehcom.2024.100845).
+available [here](https://doi.org/10.1016/j.vehcom.2024.100845).
 
 ## Implementation
 
@@ -17,7 +17,7 @@ available at [here](https://doi.org/10.1016/j.vehcom.2024.100845).
    datasets: [X-CANIDS Dataset](http://ieee-dataport.org/open-access/x-canids-dataset-vehicle-signal-dataset)
    and [SynCAN](https://github.com/etas/SynCAN). Please download them from the linked websites.
 2. It was tested on Linux and the deep learning model was built with Tensorflow.
-3. ⚡️ Make sure you have enough time (probably more than 1 day depending on your machine) and computing resource (more than 75 GB).
+3. ⚡️ Make sure you have enough time (probably more than 1 day depending on your machine) and computing resource. The original experiments were performed on a computer equipped with an AMD Ryzen 7 5800X 8-Core Processor (3.80 GHz) and 64GB of memory.
 
 ### Environmental Setup
 
